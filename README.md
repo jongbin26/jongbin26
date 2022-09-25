@@ -1,7 +1,7 @@
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=JONGBIN%20&fontSize=70&desc=Hi%20there🖐) 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jongbin26&hide=contribs&theme=default,prs)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jongbin26&hide=contribs,issues&theme=default,prs)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jongbin26&repo=coding_test)](https://github.com/anuraghazra/github-readme-stats)
     <hr>
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jongbin26&color=0969da&bg_color=0&title_color=0969da&line=0969da&area_color=0969da)](https://github.com/jongbin26/github-readme-activity-graph)
