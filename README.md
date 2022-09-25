@@ -1,8 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=JONGBIN%20&fontSize=70&desc=Hi%20there🖐)  
- 
-  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=JONGBIN%20&fontSize=70&desc=Hi%20there🖐) 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jongbin26&hide=contribs&theme=default,prs)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jongbin26&repo=coding_test)](https://github.com/anuraghazra/github-readme-stats)
     <hr>
