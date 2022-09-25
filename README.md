@@ -8,7 +8,6 @@
     <hr>
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jongbin26&color=0969da&bg_color=0&title_color=0969da&line=0969da&area_color=0969da)](https://github.com/jongbin26/github-readme-activity-graph)
 </div>
-<hr>  
  
 <h2 align="center">🏅백준 랭크🏅</h2>
 <div align="center">
