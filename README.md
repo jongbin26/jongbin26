@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=JONGBIN%20&fontSize=70&desc=Hi%20there🖐) 
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=30&height=300&section=header&text=JONGBIN%20&fontSize=45&desc=Hi%20there🖐) 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jongbin26&hide=contribs,issues,prs&theme=default)
 </div>
 <h2 align="center">🏅PROBLEM SOLVING🏅</h2>
